@@ -14,8 +14,8 @@ The project aims to analyze the healthcare dataset to gain insights into various
 
 ## Files
 
-- `healthcare_data.csv`: The dataset used for the analysis.
-- `healthcare_data_analysis.ipynb`: Jupyter Notebook containing the Python code for data analysis, visualizations, and insights.
+- `Healthcare_Dataset.csv`: The dataset used for the analysis.
+- `Healthcare_Dataset_analysis.ipynb`: Jupyter Notebook containing the Python code for data analysis, visualizations, and insights.
 
 ## Dependencies
 
